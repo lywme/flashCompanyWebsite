@@ -1,0 +1,116 @@
+yyrj05.swf 影片报告
+
+
+
+元数据
+
+
+字节    值
+
+    
+
+335    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/1.1/"><dc:title>用友业伟公司，山东淄博市张店区</dc:title><dc:description>用友业伟公司是用友集团公司在淄博地区的一家正式代理，在山东淄博已经有十余年的工作经验，近千家企业用户，致力于为用户打造优良的企业信息化管理系统。</dc:description></rdf:Description></rdf:RDF>
+
+帧 #    帧 字节    总共 字节    场景
+
+    
+    
+    
+
+      1           3039           3039    loader
+      2          90523          93562    main (AS 2.0 类导出帧)
+
+场景                        形状 字节    文本 字节    ActionScript 字节
+
+    
+    
+    
+
+loader                                41             0                   241
+main                                  69           778                   823
+
+符号                       形状 字节    文本 字节    ActionScript 字节
+
+    
+    
+    
+
+mask                                  25             0                     0
+topBtn_mc                             27             0                     2
+buslogo_mc                            88             0                     0
+yyrj                                   0             0                     0
+workeasy                               0            41                     0
+workeasy 副本                        0            44                     0
+logo_mc                                0             0                     0
+补间 6                               0             0                     0
+补间 5                               0             0                     0
+补间 4                               0             0                     0
+补间 3                               0             0                     0
+补间 2                               0             0                     0
+补间 1                               0             0                     0
+元件 32                            609             0                     0
+gray button bg                        52             0                     0
+gray button mc                         0             0                     2
+topBtnBg                              27             0                     0
+contact-icon                           0             0                     0
+house                                  0             0                     0
+divider                               39             0                     0
+stripes                                0             0                     0
+bg                                     0             0                     0
+bottombar                              0             0                     0
+graybar                                0             0                     0
+topbar                                 0             0                     0
+
+
+补间形状: 110 bytes
+
+字体名称                 字节        字符    
+
+    
+    
+
+Comic Sans MS 粗体           1109    189Scein
+黑体 粗体                 10155    &R业产们伟作例公典功务司品地址型培工成我户才技持支教更服松案用科系线联聘育英让训诚路轻采页风首
+宋体  11 pts                   53    ：
+Arial  11 pts                  2082     ()02789ABCJLRTYZadeghilmnoprstvwy
+
+ActionScript 字节    位置
+
+    
+
+               241    loader:actions:1
+               823    main:actions:1
+                 1    gray button mc:actions:1
+                 1    gray button mc:actions:20
+                 1    topBtn_mc:actions:1
+                 1    topBtn_mc:actions:20
+               105    
+
+位图                     压缩后    压缩
+
+    
+  
+  
+
+bg.jpg                         14997     1347840   导入的 JPEG=102
+stripes.png                    37985      728640   JPEG 品质=80
+topbar.jpg                      5451      252720   导入的 JPEG=102
+graybar.jpg                     2460      162240   导入的 JPEG=102
+bottombar.jpg                   3991      102960   导入的 JPEG=102
+house.png                         41         396   无损
+contact.png                       39         396   无损
+
+事件声音: 11KHz Mono 16 kbps MP3
+
+
+声音名称                 字节        格式    
+
+    
+    
+
+sound6.mp3                   3142        11KHz Mono 16 kbps MP3
+sound7.mp3                   2934        11KHz Mono 16 kbps MP3
+
+
+
+
